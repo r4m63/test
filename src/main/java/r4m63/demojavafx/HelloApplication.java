@@ -17,7 +17,7 @@ public class HelloApplication extends Application {
         stage.show();
     }
 
-    // 2 Commit from Nebula Warden
+    // 3 Commit from Nebula Warden
     public static void main(String[] args) {
         launch();
     }
